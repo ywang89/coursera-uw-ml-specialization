@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+
+# python related
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# R related
+*.Rhistory
+*.RData
+
+# temporary files
+*~
+
+# common files
+*.pdf
+*.docx
+*.txt
+
+# other
+.DS_Store
+*.log
+
+# sub-directories
+week_1/.ipynb_checkpoints/*.*
+week_1/*.csv
+week_1/PhillyCrime.ipynb
+week_1/*.pdf
