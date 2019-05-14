@@ -26,3 +26,10 @@ week_1/.ipynb_checkpoints/*.*
 week_1/*.csv
 week_1/PhillyCrime.ipynb
 week_1/*.pdf
+
+week_2/prog_assignment_1/.ipynb_checkpoints/*.*
+week_2/prog_assignment_2/.ipynb_checkpoints/*.*
+week_2/prog_assignment_1/*.csv
+week_2/prog_assignment_2/*.csv
+week_2/numpy-tutorial.ipynb
+week_2/*.pdf
