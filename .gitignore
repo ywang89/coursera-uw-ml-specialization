@@ -47,3 +47,6 @@ week-4/*.pdf
 week-4/Overfitting_Demo_Ridge_Lasso.ipynb
 
 week-5/.ipynb_checkpoints/*.*
+
+week-6/*.csv
+week-6/.ipynb_checkpoints/*.*
