@@ -10,6 +10,9 @@ Implemented a generic simple linear regression in Python.
 
 ## Week 2: Multiple Linear Regression
 
+* [Programming Assignment](https://github.com/ywang89/coursera_ml_regression/blob/master/week-2/week-2-multiple-regression-assignment-1.ipynb)
+* [Programming Assignment](https://github.com/ywang89/coursera_ml_regression/blob/master/week-2/week-2-multiple-regression-assignment-2.ipynb)
+
 ## Week 3: Assessing Performance
 
 [Programming Assignment](https://github.com/ywang89/coursera_ml_regression/blob/master/week-3/week-3-polynomial-regression-assignment.ipynb)
