@@ -27,7 +27,10 @@ __pycache__/
 
 
 # directories
-*/.ipynb_checkpoints/*.*
+*.ipynb
+*.ipynb_checkpoints/*.*
 
 week-2/people_wiki.sframe/*
 
+week-4/images.sf/*
+week-4/work-out-example.ipynb
