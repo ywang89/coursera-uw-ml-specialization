@@ -4,6 +4,7 @@ This is my repo for "Machine Learning Specialization" on Coursera. This mainly c
 
 The specialization covers:
 
+* [ML Foundations](https://github.com/ywang89/coursera-uw-ml-specialization/tree/master/uw-ml-foundations) (completed)
 * [Regression](https://github.com/ywang89/coursera-uw-ml-specialization/tree/master/uw-ml-regression) (completed)
 * [Classification](https://github.com/ywang89/coursera-uw-ml-specialization/tree/master/uw-ml-classification) (completed)
-* [Clustering and Retrieving](https://github.com/ywang89/coursera-uw-ml-specialization/tree/master/uw-ml-clustering-retrieving) (in progress)
+* [Clustering and Retrieving](https://github.com/ywang89/coursera-uw-ml-specialization/tree/master/uw-ml-clustering-retrieving) (completed)
